@@ -8,6 +8,7 @@ public class Sample01 {
 		
 		System.out.println("16:17　一回更新しました。");
 
+		System.out.println("こんにちは山中康次です");
 	}
 
 }
