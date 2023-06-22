@@ -11,6 +11,6 @@ public class Sample01 {
 		System.out.println("こんにちは山中康次です");
 		
 		System.out.println("xxx 一回テストします");
-	}
 
+}
 }
