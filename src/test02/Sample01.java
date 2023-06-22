@@ -13,6 +13,7 @@ public class Sample01 {
 		
 		System.out.println("xxx 木曜　09:31 テストします");
 
-	}
 
+
+}
 }
