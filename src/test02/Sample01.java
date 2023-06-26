@@ -14,6 +14,9 @@ public class Sample01 {
 		System.out.println("xxx 木曜　09:37 テストします");
 		
 		System.out.println("xxx 木曜　09:46 テストします");
+		
+		System.out.println("xxx 月曜　10:38 テストします");
+
 
 
 
